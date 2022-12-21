@@ -6,3 +6,4 @@ Supycap
 matplotlib
 numpy
 # plotly
+gunicorn==20.1.0
